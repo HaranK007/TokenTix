@@ -1,6 +1,6 @@
 # TOKENTIX
 
-Welcome to TokenTix, the cutting-edge solution for seamless ticket booking and event hosting platform bridging web2 and web3 users by leveraging Solana blockchain technology.
+Welcome to TokenTix, the cutting-edge solution for seamless ticket booking and event registeration platform bridging web2 and web3 users by leveraging Solana blockchain technology.
 
 For more details, please visit the [TokenTix website](https://c-hack-submission.vercel.app/).
 
@@ -10,9 +10,9 @@ TokenTix redefines the ticketing experience, eliminating ticket scalping, fraud,
 
 # RoadMap
 1. Application Prototype Demo &#10004;
-2. Onboarding Users
+2. Onboarding Users (coding)
 3. Integrating Payments
-4. Onboarding Event Hosts
+4. Onboarding Event Hosts  (coding)
 5. Zoom and Twitter integration
 6. Hosts Dashboard
 7. Testing
